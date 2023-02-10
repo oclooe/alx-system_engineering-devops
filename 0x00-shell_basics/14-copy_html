@@ -1,2 +1,2 @@
-AV cp
--un *.html ../
+AV
+cp -un *.html ../
